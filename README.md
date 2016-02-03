@@ -1,0 +1,2 @@
+# GameMaker
+For GameMaker projects
